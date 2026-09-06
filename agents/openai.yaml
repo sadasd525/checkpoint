@@ -1,0 +1,6 @@
+interface:
+  display_name: "Checkpoint"
+  short_description: "Save, resume, and privately publish project work"
+  default_prompt: "Use $checkpoint to save, resume, or privately publish this project."
+policy:
+  allow_implicit_invocation: false
